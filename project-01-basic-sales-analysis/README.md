@@ -23,6 +23,6 @@ A beginner-friendly Excel project analyzing a small sales dataset using formulas
 - Microsoft Excel (Formulas, Pivot Tables, Charts)
 
 ## 🚀 How to Use
-1. Download `sales_analysis.xlsx`.
+1. Download `Basic_excel.xlsx`.
 2. Open in Excel.
 3. Inspect the `Data` sheet, calculated columns, `Pivot` sheet, and `Chart` sheet.
